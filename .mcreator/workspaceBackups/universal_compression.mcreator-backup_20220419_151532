@@ -1,0 +1,30 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "universal_compression",
+    "modName": "Universal Compression",
+    "version": "1.0.0",
+    "author": "19534, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.17.1",
+    "modElementsPackage": "net.mcreator.universalcompression",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200115515
+}
